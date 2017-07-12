@@ -37,4 +37,7 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'byebug', group: [:development, :test]
+gem 'pry', group: [:development, :test]
+gem 'pry-byebug', group: [:development, :test]
+gem 'awesome_print', group: [:development, :test]
